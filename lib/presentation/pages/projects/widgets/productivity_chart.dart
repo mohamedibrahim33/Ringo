@@ -53,7 +53,7 @@ class ProductivityChart extends StatelessWidget {
                 itemCount: productivityList.length,
                 itemBuilder: (context, index) {
                   bool indexOfMonth =
-                      DateFormat('MMM').format(DateTime.now()) ==
+                      DateFormat('MMM', "en").format(DateTime.now()) ==
                           productivityList[index].monthName;
                   return Column(
                     mainAxisAlignment: MainAxisAlignment.end,
