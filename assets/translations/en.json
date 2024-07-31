@@ -1,0 +1,16 @@
+{
+  "login":"Login",
+  "sign_in_to_your_account":"Sign in to your account",
+  "username_email":"Username / Email",
+  "enter_username_email":"Enter Username / Email",
+  "password":"Password",
+  "enter_password_here":"Enter password here",
+  "forgot_password":"Forgot Password?",
+  "login_with_account" : "Or login with account",
+  "Continue with Google":"Continue with Google",
+  "Continue with Facebook":"Continue with Facebook",
+  "Continue with Apple":"Continue with Apple",
+  "Donot have an account":"Don’t have an account?",
+  "Register Here":"Register Here",
+  "Search":"Search"
+}
